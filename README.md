@@ -2,4 +2,4 @@
 
 App that loads a JSON data into memory and displays words.
 
-![alt text](http://url/to/img.png)
+![screen](https://github.com/bajal/GREWordsAndroidApp/raw/master/screen.png)
